@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Usuarios</string>
+    <string name="app_name">Users App</string>
+
+    <string name="usuario">User</string>
+
+    <string name="clave">Password</string>
+
+    <string name="repetir_clave">Confirm password</string>
+
+    <string name="tipoUsuario">User role:</string>
+
+    <string name="administrador">Administrator</string>
+
+    <string name="guardar">Save</string>
+
+    <string name="editar_usuario">Edit user</string>
+
+    <string name="datos_incorrectos">Some of the data is wrong</string>
+
+    <string name="guardado">User saved!</string>
 </resources>
