@@ -2,6 +2,7 @@ package com.example.usuarios;
 
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
@@ -11,7 +12,7 @@ public class UsuarioViewHolder extends RecyclerView.ViewHolder implements View.O
     private int position;
     TextView tvUsuario;
     TextView tvTipoUsuario;
-    Button btnModificar;
+    ImageButton btnModificar;
 
     // Al extender de RecyclerView.ViewHolder obligatoriamente, debe sobrescribir el
     // constructor recibiendo un parámetro View, que debe ser pasado a la clase padre
